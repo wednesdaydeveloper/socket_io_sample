@@ -17,6 +17,6 @@ http://www.youtube.com/user/c9ide.
 Happy coding!
 The Cloud9 IDE team
 
-以下のサイトに合ったSocke.io のサンプル
+以下のサイトにあったSocke.io のサンプル
 
 https://heavy-metal-explorer.com/approach_socket_io/
